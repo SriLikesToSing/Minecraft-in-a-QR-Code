@@ -4,7 +4,7 @@ its literally just minecraft on a qr code.
 
 **instructions**
 
-print this or take a picture directly from the document
+print this or take a picture directly from the document (or just download the pictures I already have)
 
 https://docs.google.com/document/d/1IEYuL2panN8EVcPyZixLzO42TQxTmX7FqdUAkxwV4vk/edit?usp=sharing
 
