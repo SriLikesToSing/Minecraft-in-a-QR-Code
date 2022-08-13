@@ -122,3 +122,8 @@ for files in os.listdir(args["directory"]):
 #    cv2.imwrite("THERESULT.jpg", image)
 
 print(STRING)
+
+#writes base64 output to txt file
+with open("OUTPUT.txt", "w") as text_file:
+    text_file.write(STRING)
+
