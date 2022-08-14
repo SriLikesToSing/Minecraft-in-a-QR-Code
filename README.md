@@ -1,5 +1,5 @@
 # Minecraft-in-a-QR-Code
-its literally just minecraft on a qr code.
+its literally just minecraft stored on paper.
 
 
 **instructions**
