@@ -8,7 +8,7 @@ print this or take a picture directly from the document (or just download the pi
 
 https://docs.google.com/document/d/1IEYuL2panN8EVcPyZixLzO42TQxTmX7FqdUAkxwV4vk/edit?usp=sharing
 
-install required python packages through pip install requirements.txt
+install required python packages through **pip install requirements.txt**
 
 1. download my software and run python3 catridge.py --directory "directory where pictures of each page are stored"
 2. there will be an output file called "OUTPUT.txt" that results after you run the program
