@@ -1,0 +1,8 @@
+pyzbar
+argparse
+cv2
+math
+imutils
+numpy 
+skimage
+os
