@@ -78,9 +78,9 @@ for files in os.listdir(args["directory"]):
         cv2.putText(image, text, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 2)
 
 
-    #   print("[INFO] Found {} barcode: {}".format(barcodeType, barcodeData))
+       print("[INFO] Found {} barcode: {}".format(barcodeType, barcodeData))
 
-    #   print("Barcode Cords x:{}, y:{}, w:{}, h:{}".format(x, y, w, h))
+       print("Barcode Cords x:{}, y:{}, w:{}, h:{}".format(x, y, w, h))
 
         dictText["{}, {}".format(x, y)] = text
         cords.append([x,y])
@@ -119,7 +119,7 @@ for files in os.listdir(args["directory"]):
 
 
 
-#    cv2.imwrite("THERESULT.jpg", image)
+    cv2.imwrite("THERESULT.jpg", image)
 
 print(STRING)
 
