@@ -8,8 +8,9 @@ print this or take a picture directly from the document (or just download the pi
 
 https://docs.google.com/document/d/1IEYuL2panN8EVcPyZixLzO42TQxTmX7FqdUAkxwV4vk/edit?usp=sharing
 
-install required python packages through **pip install requirements.txt**
-
+install required python packages through `pip install -r requirements.txt`
+64-bit Python required
+Microsoft Visual C++ 14.0 or greater required https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 ## Usage
 
@@ -22,4 +23,3 @@ $ to run this file do chmod +x keyfile.kdb
 $ finally type in ./keyfile.kdb 
 $ u have officially ran minecraft from a piece of paper :D
 ```
-
