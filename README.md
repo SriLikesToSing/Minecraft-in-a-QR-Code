@@ -20,6 +20,6 @@ $ next type base64 OUTPUT.txt > keyfile.kdb
 $ once you have done that u will have a binary file ready to be compiled
 $ to run this file do chmod +x keyfile.kdb
 $ finally type in ./keyfile.kdb 
-$ u have officially ran minecraft from a piece of paper :D
+$ u have officially ran minecraft from a piece of paper baby.
 ```
 
