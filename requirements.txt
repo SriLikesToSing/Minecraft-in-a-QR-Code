@@ -1,8 +1,6 @@
 pyzbar
 argparse
-cv2
-math
+opencv-python
 imutils
 numpy 
-skimage
-os
+scikit-image
