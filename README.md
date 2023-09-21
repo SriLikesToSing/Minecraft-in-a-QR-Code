@@ -1,6 +1,7 @@
 # Minecraft-in-a-QR-Code
 it's literally just minecraft stored on paper.
 
+<img src="https://github.com/SriLikesToSing/Minecraft-in-a-QR-Coed/blob/main/turing.gif">
 
 **instructions**
 
