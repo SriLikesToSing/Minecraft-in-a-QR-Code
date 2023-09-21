@@ -21,7 +21,7 @@ Download my software and run
 ```
 There will be an output file called "OUTPUT.txt" that results after you run the program
 
-Bext type
+Next type
 ```bash
   base64 -d OUTPUT.txt > BRUHMOMENT.kdb
 ```
