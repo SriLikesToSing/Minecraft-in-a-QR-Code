@@ -13,7 +13,7 @@ https://docs.google.com/document/d/1IEYuL2panN8EVcPyZixLzO42TQxTmX7FqdUAkxwV4vk/
 
 Install required python packages through 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Download my software and run
 ```bash
