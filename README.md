@@ -29,12 +29,12 @@ Once you have done that u will have a binary file ready to be compiled
 To run this file do
 
 ```bash
-  chmod +x keyfile.kdb
+  chmod +x BRUHMOMENT.kdb
 ```
 finally type in
 
 ```bash
-  ./keyfile.kdb 
+  ./BRUHMOMENT.kdb 
 ```
 
 You have officially ran minecraft from a piece of paper baby.
