@@ -3,7 +3,7 @@ it's literally just minecraft stored on paper.
 
 <img src="https://github.com/SriLikesToSing/Minecraft-in-a-QR-Code/blob/main/tutorial.gif">
 
-**instructions**
+## instructions
 
 Print this or take a picture directly from the document (or just download the pictures I already have)
 
