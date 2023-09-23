@@ -53,7 +53,7 @@ for files in os.listdir(args["directory"]):
 
     print(files)
 
-    image = cv2.imread("./qrImages/{}".format(files))
+    image = cv2.imread("./{}/{}".format(args["directory"],files))
 
     barcodes = pyzbar.decode(image)
 
