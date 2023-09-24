@@ -14,6 +14,9 @@ https://docs.google.com/document/d/1IEYuL2panN8EVcPyZixLzO42TQxTmX7FqdUAkxwV4vk/
 Install required python packages through 
 ```bash
 pip install -r requirements.txt
+64-bit Python required
+Microsoft Visual C++ 14.0 or greater required
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
 ```
 Download my software and run
 ```bash
